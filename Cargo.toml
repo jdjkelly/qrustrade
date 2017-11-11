@@ -1,0 +1,6 @@
+[package]
+name = "qrustrade"
+version = "0.1.0"
+authors = ["Joshua Kelly <jdjkelly@gmail.com>"]
+
+[dependencies]
